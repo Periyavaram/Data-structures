@@ -6,3 +6,4 @@
 5.inventory maintenance
 6.swapping
 7.factorial using recursion
+8.linear search
