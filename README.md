@@ -5,3 +5,4 @@
 4.student mark sheet generation
 5.inventory maintenance
 6.swapping
+7.factorial using recursion
