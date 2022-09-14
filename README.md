@@ -9,3 +9,4 @@
 8.binary  search tree
 9.linked list
 10.odd or even
+11.factorial without using recursion
