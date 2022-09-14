@@ -8,3 +8,4 @@
 7.factorial using recursion
 8.linear search
 9.Array deletion
+10.Array insertion
