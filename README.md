@@ -10,3 +10,4 @@
 9.Array deletion
 10.Array insertion
 11.binary tree transversal
+12.binary  search
