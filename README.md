@@ -20,3 +20,4 @@
 19.breadth first search
 20. depth first search
 21. mst using kruskals
+22. mst using prims
