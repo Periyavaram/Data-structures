@@ -12,3 +12,5 @@
 11.factorial without using recursion
 12.Applications of stack
 13.insertion sort
+14.merge sort
+
