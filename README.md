@@ -19,3 +19,4 @@
 18.Heap sort
 19.breadth first search
 20. depth first search
+21. mst using kruskals
