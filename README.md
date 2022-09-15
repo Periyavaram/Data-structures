@@ -13,4 +13,5 @@
 12.Applications of stack
 13.insertion sort
 14.merge sort
-
+15.Quick sort
+16.Linear probing
