@@ -22,3 +22,4 @@
 21. mst using kruskals
 22. mst using prims
 23. dijkshtras
+24.stack operations
