@@ -18,3 +18,4 @@
 17.queue operations
 18.Heap sort
 19.breadth first search
+20. depth first search
