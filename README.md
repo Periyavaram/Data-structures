@@ -23,3 +23,6 @@
 22. mst using prims
 23. dijkshtras
 24.stack operations
+25.delete element at end
+26.insert element at end
+27.avl tree
